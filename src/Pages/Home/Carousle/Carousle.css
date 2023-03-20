@@ -1,0 +1,4 @@
+.btn-custom::after{
+    content: ">>";
+    margin-left: 8px;
+}
