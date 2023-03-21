@@ -1,0 +1,6 @@
+.custom-review{
+    background-image: url("../../../assets/img/fun-bg-1.png");
+    background-color: #F9F9F7;
+    z-index: 2;
+    position: relative;
+}
